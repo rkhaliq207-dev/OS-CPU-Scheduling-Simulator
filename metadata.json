@@ -1,0 +1,6 @@
+{
+  "name": "OS Lab — CPU Scheduling Simulator",
+  "description": "Educational single-CPU scheduling algorithm visualizer and simulator for B.Tech Computer Science Operating Systems lab, featuring FCFS, SJF, Priority, and Round Robin with proportional Gantt charts, metrics, and comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
